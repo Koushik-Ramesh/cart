@@ -1,0 +1,4 @@
+app:
+    source:  "https://github.com/Koushik-Ramesh/tf-module-mutable-cart.git"
+    version: "main"
+
